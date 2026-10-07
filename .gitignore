@@ -67,3 +67,5 @@ node_modules/
 *.avi
 *.mov
 data/
+models/*.pkl
+models/*.keras
